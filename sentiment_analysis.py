@@ -1,5 +1,6 @@
+# commands to launch streamlit in the terminal
 # .venv\Scripts\Activate.ps1
-# streamlit run app.py
+# streamlit run sentiment_analysis.py
 # deactivate
 
 import streamlit as st
